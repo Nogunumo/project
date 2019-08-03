@@ -1,4 +1,8 @@
-# project
-First repository.
+# Header 1
 
-Learnig Github.
+## Header 2
+
+* Bullet 1
+* Bullet 2
+
+Paragraph text here
