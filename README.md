@@ -5,6 +5,7 @@
 
 * Bullet 1
 * Bullet 2
+* Bullet 3
 
 1. For instllation use pip.
 
