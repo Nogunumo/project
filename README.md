@@ -8,7 +8,7 @@
 
 1. For instllation use pip.
 
-```
+```python
 pip install pandas
 ```
 
