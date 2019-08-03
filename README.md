@@ -6,10 +6,10 @@
 * Bullet 1
 * Bullet 2
 
-Paragraph text here
+1. For instllation use pip.
 
-,,,
+```
+pip install pandas
+```
 
-puts 'this is code'
-if this then that
-,,,
+[link to Youtube!](https://www.youtube.com)
